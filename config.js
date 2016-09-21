@@ -11,7 +11,7 @@ exports.config = {
             'browserName': 'chrome'
         }
     ],
-    specs: ['index.js'],
+    specs: ['newRequestForm.js', 'form2.js', 'form3.js'],
 
     chromeDriver:'./node_modules/chromedriver/bin/chromedriver'
 }
